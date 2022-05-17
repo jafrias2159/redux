@@ -1,5 +1,5 @@
 
-import { bugAdded, bugResolved } from "./actions";
+import { bugAdded, bugResolved } from "./store/actions";
 import store from "./store";
 
 // store.dispatch(bugAdded('New frash bug'));
